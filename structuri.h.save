@@ -1,0 +1,53 @@
+#ifndef structuri
+#define structuri
+#include <iostream>
+#include <stdio.h>
+#include <stdlib.h>
+#include <windows.h>
+#include <string.h>
+#include <winbgim.h>
+#include <graphics.h>
+//#define MAX 100
+//#define NrPieseMeniu 9
+//#define zoomMen 7
+#define MAX1 40
+#define MAX2 80
+#define FUNDAL WHITE
+#define CULOARE BLACK
+
+
+struct descriere
+{
+    char comanda[MAX1];
+    unsigned nComenzi;
+    float x1[MAX1], y1[MAX1], x2[MAX1], y2[MAX1];
+};
+
+struct punctLegatura
+{
+    float x, y;
+    bool ocupat = false;
+    unsigned int piesa;
+};
+
+
+struct piesa
+{
+    unsigned id;
+    char nume[MAX1];
+    int x,y;
+    unsigned orientare;
+    char continut[MAX2];
+    unsigned nrLegaturi;
+    punctLegatura pLeg[MAX1];
+    descriere descr;
+};
+
+struct legatura
+{
+    punctLegatura pStart, pEnd;
+    unsigned varianta = 1;
+};
+
+
+#endif // structuri

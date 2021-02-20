@@ -1,0 +1,16 @@
+#include <iostream>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <winbgim.h>
+#include <graphics.h>
+
+#define MAX1 40
+#define MAX2 80
+#define FUNDAL 0
+
+using namespace std;
+
+float zoom=14.0;
+
+

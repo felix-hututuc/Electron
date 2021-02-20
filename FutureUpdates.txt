@@ -1,0 +1,8 @@
+			Viitoarea actualizare
+
+O dată cu versiunea Electron v0.1.1 utilizatori se pot bucura de noi îmbunătățiri și noi caracteristici, cum ar fi:
+1. Posibilitatea de a adauga valori numerice pieselor și de a putea modifica mărimile fizice ale acestora( ca de exemplu din A în mA).
+2. Posibilitatea de a schimba culoarea fundalului ( negru, alb, cyan, grey).
+3. Posibilitatea de a putea desena piese și legături de culori diferite.
+4. Optimizări în ceea ce privește funcționarea mai bună a aplicației.
+5. Posibilitatea de a adauga o piesă la pozitie specifică introdusă din tastatură

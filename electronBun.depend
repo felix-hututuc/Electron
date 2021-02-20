@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1609249785 source:d:\facultate\codeblocks\electronbun\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winbgim.h>
+	<graphics.h>
+
+1610297659 source:d:\electron\electronbun\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winbgim.h>
+	<graphics.h>
+	"structuri.h"
+	"functii.h"
+
+1609939363 d:\electron\electronbun\structuri.h
+
+1610272171 source:d:\electron\electronbun\functii.cpp
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"functii.h"
+	"structuri.h"
+
+1609967600 d:\electron\electronbun\functii.h
+	"structuri.h"
+
+1609790793 d:\electron\electronbun\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winbgim.h>
+	<graphics.h>
+	"structuri.h"
+	"functii.h"
+
+1609824519 source:c:\users\georg\onedrive\desktop\help\electronbun\functii.cpp
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"functii.h"
+	"structuri.h"
+
+1609824495 c:\users\georg\onedrive\desktop\help\electronbun\functii.h
+	"structuri.h"
+
+1609824815 c:\users\georg\onedrive\desktop\help\electronbun\structuri.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<winbgim.h>
+	<graphics.h>
+
+1609824357 source:c:\users\georg\onedrive\desktop\help\electronbun\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winbgim.h>
+	<graphics.h>
+	"structuri.h"
+	"functii.h"
+
+1609824519 source:c:\users\lucac\onedrive - office 365\desktop\helpp\electronbun\functii.cpp
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"functii.h"
+	"structuri.h"
+
+1609824495 c:\users\lucac\onedrive - office 365\desktop\helpp\electronbun\functii.h
+	"structuri.h"
+
+1609841964 c:\users\lucac\onedrive - office 365\desktop\helpp\electronbun\structuri.h
+
+1609943161 source:e:\facultate\electronbun\functii.cpp
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"functii.h"
+	"structuri.h"
+
+1609939363 e:\facultate\electronbun\functii.h
+	"structuri.h"
+
+1609939363 e:\facultate\electronbun\structuri.h
+
+1609943067 source:e:\facultate\electronbun\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winbgim.h>
+	<graphics.h>
+	"structuri.h"
+	"functii.h"
+
+1610431457 source:c:\users\felix\onedrive\desktop\electronbun\functii.cpp
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"functii.h"
+	"structuri.h"
+
+1610431457 c:\users\felix\onedrive\desktop\electronbun\functii.h
+	"structuri.h"
+
+1610431458 c:\users\felix\onedrive\desktop\electronbun\structuri.h
+
+1610431457 source:c:\users\felix\onedrive\desktop\electronbun\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winbgim.h>
+	<graphics.h>
+	"structuri.h"
+	"functii.h"
+
+1610431457 source:c:\users\felix\onedrive\desktop\electronfinal\functii.cpp
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	"functii.h"
+	"structuri.h"
+
+1610431457 c:\users\felix\onedrive\desktop\electronfinal\functii.h
+	"structuri.h"
+
+1610431458 c:\users\felix\onedrive\desktop\electronfinal\structuri.h
+
+1610431457 source:c:\users\felix\onedrive\desktop\electronfinal\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winbgim.h>
+	<graphics.h>
+	"structuri.h"
+	"functii.h"
+
